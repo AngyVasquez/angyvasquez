@@ -2,5 +2,5 @@
 #Email: angy.vasquez65@myhunter.cuny.edu
 #Date: March 17th 2020
 #This program prints: Hello Hunter (Unix Script)
-$ AngyVasquez/angyvasquez/Hello Hunter
+$ AngyVasquez/angyvasquez/HelloHunter.py
 print("Hello, Hunter College!!!")
