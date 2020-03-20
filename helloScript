@@ -1,0 +1,5 @@
+#!/bin/bash
+#Name: Angy Shailyn Vasquez
+#Email: angy.vasquez65@myhunter.cuny.edu
+echo "Hello, Hunter College!!!"
+ls angyvasquez/helloScript
